@@ -1,64 +1,14 @@
-治疗师 乌拉基
+破坏神『希巴』
 
-norland
-warrior
-
-
-
-
-
-
-店员 西兹
-
-yerles
-gunner
+doggod
+predator
 
 
 
 
 
 
-观光客 西尤内尔
-
-yerles
-gunner
-
-
-
-
-
-
-网络巨蛋的居民 萨玛艾恩
-
-yerles
-gunner
-
-
-
-
-
-
-魔法师 罗博莱伊
-
-norland
-wizard
-
-
-
-
-
-
-温泉发烧友 凯毕苏
-
-norland
-
-
-
-
-
-
-
-店主 尼科科尔
+交易店的店主 塔拉弗安尔
 
 norland
 gunner
@@ -68,9 +18,9 @@ gunner
 
 
 
-观光客 凯苏哈茨库
+旅馆的店主 特尔加尔
 
-yerles
+norland
 gunner
 
 
@@ -78,17 +28,37 @@ gunner
 
 
 
-吟游诗人 乌尔恩达
+调酒师 艾保
+
+norland
+gunner
+
+
+
+
+
+
+大篷车的队长 瓦古博阿
 
 juere
-pianist
+gunner
 
 
 
 
 
 
-情报商 索伊塔玛
+乞丐 加恩达茨卡
+
+norland
+tourist
+
+
+
+
+
+
+佣兵战士 奥伊莱阿
 
 norland
 warrior
@@ -98,37 +68,17 @@ warrior
 
 
 
-观光客 艾伊米罗兹
+佣兵射手 伊布博苏
 
-yerles
-gunner
-
-
-
-
-
-
-店员 坦奥弗安乌苏
-
-yerles
-gunner
+norland
+archer
 
 
 
 
 
 
-『店员 卡查塔利』
-
-yerles
-gunner
-
-
-
-
-
-
-魔法师 西尤查苏塔恩
+佣兵魔法师 特米特利
 
 norland
 wizard
@@ -138,27 +88,37 @@ wizard
 
 
 
-长老 凯苏艾茨塔
+乞丐 特尔格恩
 
 norland
-gunner
+tourist
 
 
 
 
 
 
-温泉发烧友 塔姆弗奥恩
+佣兵战士 科弗茨卡
 
 norland
+warrior
 
 
 
 
 
 
+佣兵射手 西尤尤恩
 
-魔法师 科布坦恩
+norland
+archer
+
+
+
+
+
+
+佣兵魔法师 阿弗科尔
 
 norland
 wizard
@@ -168,249 +128,146 @@ wizard
 
 
 
-治疗师 米西艾利茨库
-
-norland
-warrior
-
-
-
-
-
-
-训练师 西兹浩尔库
-
-norland
-warrior
-
-
-
-
-
-
-长老 摩纳内
-
-norland
-gunner
-
-
-
-
-
-
-治疗师 艾保利茨塔
-
-norland
-warrior
-
-
-
-
-
-
-市民 尤西艾拉
+守卫 卡恩查奥恩
 
 yerles
-warrior
+archer
 
 
 
 
 
 
-战士 哈伊阿恩
-
-norland
-warrior
-
-
-
-
-
-
-店员 奥伊罗
+守卫 科诺尔德
 
 yerles
-gunner
+archer
 
 
 
 
 
 
-魔法师 索伊西亚苏
 
-norland
-wizard
 
 
 
 
 
 
-战士 萨吉
 
-norland
-warrior
 
 
 
 
 
 
-情报商 弗弗奥恩
 
-norland
-warrior
 
 
 
 
 
 
-店员 卡查哈艾拉
 
-yerles
-gunner
 
 
 
 
 
 
-市民 赫苏迪奥苏
 
-yerles
-warrior
 
 
 
 
 
 
-修女 加基苏
 
-norland
-wizard
 
 
 
 
 
 
-店员 乌巴达恩
 
-yerles
-gunner
 
 
 
 
 
 
-网络巨蛋的居民 德纳尔茨
 
-yerles
-gunner
 
 
 
 
 
 
-网络巨蛋的居民 纳泽艾茨塔
 
-yerles
-gunner
 
 
 
 
 
 
-店员 基科萨尔
 
-yerles
-gunner
 
 
 
 
 
 
-情报商 弗莱奥伊加
 
-norland
-warrior
 
 
 
 
 
 
-竞技场主人 艾利鲍恩
 
-norland
-warrior
 
 
 
 
 
 
-市民 伊西尤
 
-yerles
-warrior
 
 
 
 
 
 
-市民 麦鲁茨塔
 
-yerles
-warrior
 
 
 
 
 
 
-情报商 保弗奥尔
 
-norland
-warrior
 
 
 
 
 
 
-店员 塔姆弗奥尔
 
-yerles
-gunner
 
 
 
 
 
 
-战士 拉利苏
 
-norland
-warrior
 
 
 
 
 
 
-温泉发烧友 纳尔纳茨库
 
-norland
 
 
 
@@ -418,9 +275,7 @@ norland
 
 
 
-贵族的孩子 艾罗鲁尔
 
-zanan
 
 
 
@@ -428,30 +283,175 @@ zanan
 
 
 
-战士 弗奥利茨库
 
-norland
-warrior
 
 
 
 
 
 
-店主 萨玛莱尔
 
-norland
-gunner
 
 
-商人
 
 
 
-店员 玛毕苏
 
-yerles
-gunner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
