@@ -1,3 +1,33 @@
+Ì©Ì¹
+
+giant
+warrior
+
+
+
+
+
+
+¾ŞÁú
+
+dragon
+predator
+
+
+
+
+
+
+°×Áú
+
+dragon
+predator
+
+
+
+
+
+
 Ú¤½çÄ§Áú
 
 dragon
@@ -8,7 +38,7 @@ predator
 
 
 
-¾ŞÁú
+³àÁú
 
 dragon
 predator
@@ -22,6 +52,36 @@ predator
 
 dragon
 predator
+
+
+
+
+
+
+°×Áú
+
+dragon
+predator
+
+
+
+
+
+
+Ú¤½çÄ§Áú
+
+dragon
+predator
+
+
+
+
+
+
+¾ŞÄ§
+
+giant
+
 
 
 
@@ -32,86 +92,6 @@ predator
 
 giant
 warrior
-
-
-
-
-
-
-ÉÙÅ® °Â¹ÅËş
-
-roran
-warrior
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-¾ŞÁú
-
-dragon
-predator
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-°ÂÂå¿Ë
-
-giant
-warrior
-
-
-
-
-
-
-°×ÍÃÉñ
-
-rabbit
-wizard
-
-
-
-
-
-
-ËÀÕ×ĞÇ
-
-rat
-warmage
 
 
 
@@ -128,9 +108,29 @@ predator
 
 
 
-ß±Ö÷µÄ´óÊ³ÒÏÊŞ
+ÂÌÁú
 
-largeanimal
+dragon
+predator
+
+
+
+
+
+
+ÂÌÁú
+
+dragon
+predator
+
+
+
+
+
+
+°×Áú
+
+dragon
 predator
 
 
@@ -158,27 +158,27 @@ predator
 
 
 
-ÈûÅÁ
+³àÁú
 
-worm
-warmage
-
-
-
-
-
-
-ĞŞ¸ñË¹
-
-slime
-priest
+dragon
+predator
 
 
 
 
 
 
-¾ŞÁú
+µç¹âÁú
+
+dragon
+predator
+
+
+
+
+
+
+°×Áú
 
 dragon
 predator
@@ -198,9 +198,9 @@ warmage
 
 
 
-³¤¾±Â¹
+°ÂÂå¿Ë
 
-horse
+giant
 warrior
 
 
@@ -218,9 +218,9 @@ predator
 
 
 
-°µÊ³¿¼À­
+µç¹âÁú
 
-bear
+dragon
 predator
 
 
@@ -238,7 +238,7 @@ predator
 
 
 
-³àÁú
+¾ŞÁú
 
 dragon
 predator
@@ -268,20 +268,80 @@ predator
 
 
 
-ÉñÍµ
+Ú¤½çÄ§Áú
 
-juere
-thief
-
-
+dragon
+predator
 
 
 
 
-Ó¶±øÄ§·¨Ê¦ ÒÁ°ÂÅµ¶ûµÂ
 
-norland
-wizard
+
+µç¹âÁú
+
+dragon
+predator
+
+
+
+
+
+
+ÂÌÁú
+
+dragon
+predator
+
+
+
+
+
+
+³àÁú
+
+dragon
+predator
+
+
+
+
+
+
+µç¹âÁú
+
+dragon
+predator
+
+
+
+
+
+
+³àÁú
+
+dragon
+predator
+
+
+
+
+
+
+°×Áú
+
+dragon
+predator
+
+
+
+
+
+
+Ì©Ì¹
+
+giant
+warrior
 
 
 
@@ -298,7 +358,77 @@ warrior
 
 
 
-°×Áú
+Ú¤½çÄ§Áú
+
+dragon
+predator
+
+
+
+
+
+
+¾ŞÁú
+
+dragon
+predator
+
+
+
+
+
+
+»ìãçÄ§Áú
+
+dragon
+predator
+
+
+
+
+
+
+»ğÑæÁúÓ×Ìå
+
+dragon
+predator
+
+
+
+
+
+
+¾ŞÁú
+
+dragon
+predator
+
+
+
+
+
+
+Ì©Ì¹
+
+giant
+warrior
+
+
+
+
+
+
+¾ŞÁú
+
+dragon
+predator
+
+
+
+
+
+
+Ú¤½çÄ§Áú
 
 dragon
 predator
@@ -328,10 +458,230 @@ warrior
 
 
 
+ÂÌÁú
+
+dragon
+predator
+
+
+
+
+
+
+³àÁú
+
+dragon
+predator
+
+
+
+
+
+
+ÂÌÁú
+
+dragon
+predator
+
+
+
+
+
+
+Ì©Ì¹
+
+giant
+warrior
+
+
+
+
+
+
+¾ŞÁú
+
+dragon
+predator
+
+
+
+
+
+
+¾ŞÁú
+
+dragon
+predator
+
+
+
+
+
+
+¾ŞÄ§
+
+giant
+
+
+
+
+
+
+
+»ìãçÄ§Áú
+
+dragon
+predator
+
+
+
+
+
+
+¾ŞÁú
+
+dragon
+predator
+
+
+
+
+
+
+ÂÌÁú
+
+dragon
+predator
+
+
+
+
+
+
+¶ÀÑÛ¾ŞÈË
+
+giant
+warrior
+
+
+
+
+
+
+»ìãçÄ§Áú
+
+dragon
+predator
+
+
+
+
+
+
+°×Áú
+
+dragon
+predator
+
+
+
+
+
+
+ÂÌÁú
+
+dragon
+predator
+
+
+
+
+
+
+³àÁú
+
+dragon
+predator
+
+
+
+
+
+
+Ì©Ì¹
+
+giant
+warrior
+
+
+
+
+
+
+ÂÌÁú
+
+dragon
+predator
+
+
+
+
+
+
 »ğÑæÁúÓ×Ìå
 
 dragon
 predator
+
+
+
+
+
+
+Ì©Ì¹
+
+giant
+warrior
+
+
+
+
+
+
+³àÁú
+
+dragon
+predator
+
+
+
+
+
+
+°ÂÂå¿Ë
+
+giant
+warrior
+
+
+
+
+
+
+»ğÑæÁúÓ×Ìå
+
+dragon
+predator
+
+
+
+
+
+
+°ÂÂå¿Ë
+
+giant
+warrior
 
 
 
@@ -358,36 +708,6 @@ predator
 
 
 
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-³àÁú
-
-dragon
-predator
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
 ¾ŞÁú
 
 dragon
@@ -398,80 +718,10 @@ predator
 
 
 
-¾ŞÁú
-
-dragon
-predator
-
-
-
-
-
-
-Ì©Ì¹
+¶ÀÑÛ¾ŞÈË
 
 giant
 warrior
-
-
-
-
-
-
-Ì©Ì¹
-
-giant
-warrior
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-°ÂÂå¿Ë
-
-giant
-warrior
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-³àÁú
-
-dragon
-predator
 
 
 
@@ -488,57 +738,17 @@ predator
 
 
 
-¾ŞÁú
-
-dragon
-predator
-
-
-
-
-
-
-°×Áú
-
-dragon
-predator
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-¾ŞÄ§
+°ÂÂå¿Ë
 
 giant
+warrior
 
 
 
 
 
 
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-»ğÑæÁúÓ×Ìå
+¾ŞÁú
 
 dragon
 predator
@@ -552,216 +762,6 @@ predator
 
 giant
 warrior
-
-
-
-
-
-
-»ğÑæÁúÓ×Ìå
-
-dragon
-predator
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-µç¹âÁú
-
-dragon
-predator
-
-
-
-
-
-
-³àÁú
-
-dragon
-predator
-
-
-
-
-
-
-»ğÑæÁúÓ×Ìå
-
-dragon
-predator
-
-
-
-
-
-
-µç¹âÁú
-
-dragon
-predator
-
-
-
-
-
-
-³àÁú
-
-dragon
-predator
-
-
-
-
-
-
-£¼³¬¼¶´óÊ¦£¾
-
-piece
-warmage
-
-
-
-
-
-
-±©Ñ©òáòæ
-
-lizardman
-wizard
-
-
-
-
-
-
-°×ÒøÁú³æ
-
-worm
-predator
-
-
-
-
-
-
-²»ËÀÎèÕß
-
-zombie
-pianist
-
-
-ÎèÕß
-
-
-
-¿¨Âê×ô×È
-
-bat
-predator
-
-
-
-
-
-
-Ä¦°¬Ê¯Ïñ
-
-rock
-gunner
-
-
-
-
-
-
-¾Ş´ó÷úÊó
-
-rat
-predator
-
-
-
-
-
-
-¿¨Âê×ô×È
-
-bat
-predator
-
-
-
-
-
-
-¶¾Ê¸ÍÜ
-
-frog
-archer
-
-
-
-
-
-
-Õ¶Ê×È¸
-
-bird
-predator
-
-
-
-
-
-
-µç¹âÁú
-
-dragon
-predator
-
-
-
-
-
-
-»ìãçÄ§Áú
-
-dragon
-predator
-
-
-
-
-
-
-°×Áú
-
-dragon
-predator
 
 
 
@@ -788,127 +788,7 @@ predator
 
 
 
-Ú¤½çÄ§Áú
-
-dragon
-predator
-
-
-
-
-
-
 »ìãçÄ§Áú
-
-dragon
-predator
-
-
-
-
-
-
-»ìãçÄ§Áú
-
-dragon
-predator
-
-
-
-
-
-
-Ì©Ì¹
-
-giant
-warrior
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-¾ŞÁú
-
-dragon
-predator
-
-
-
-
-
-
-»ìãçÄ§Áú
-
-dragon
-predator
-
-
-
-
-
-
-¾ŞÄ§
-
-giant
-
-
-
-
-
-
-
-»ğÑæÁúÓ×Ìå
-
-dragon
-predator
-
-
-
-
-
-
-»ğÑæÁúÓ×Ìå
-
-dragon
-predator
-
-
-
-
-
-
-¾ŞÁú
-
-dragon
-predator
-
-
-
-
-
-
-»ìãçÄ§Áú
-
-dragon
-predator
-
-
-
-
-
-
-¾ŞÁú
 
 dragon
 predator
@@ -919,116 +799,6 @@ predator
 
 
 ³àÁú
-
-dragon
-predator
-
-
-
-
-
-
-»ğÑæÁúÓ×Ìå
-
-dragon
-predator
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-¾ŞÁú
-
-dragon
-predator
-
-
-
-
-
-
-ÂÌÁú
-
-dragon
-predator
-
-
-
-
-
-
-¾ŞÁú
-
-dragon
-predator
-
-
-
-
-
-
-»ğÑæÁúÓ×Ìå
-
-dragon
-predator
-
-
-
-
-
-
-»ğÑæÁúÓ×Ìå
-
-dragon
-predator
-
-
-
-
-
-
-°ÂÂå¿Ë
-
-giant
-warrior
-
-
-
-
-
-
-Ì©Ì¹
-
-giant
-warrior
-
-
-
-
-
-
-»ğÑæÁúÓ×Ìå
 
 dragon
 predator
@@ -1068,7 +838,17 @@ warrior
 
 
 
-µç¹âÁú
+»ğÑæÁúÓ×Ìå
+
+dragon
+predator
+
+
+
+
+
+
+ÂÌÁú
 
 dragon
 predator
@@ -1079,6 +859,26 @@ predator
 
 
 µç¹âÁú
+
+dragon
+predator
+
+
+
+
+
+
+ÂÌÁú
+
+dragon
+predator
+
+
+
+
+
+
+»ğÑæÁúÓ×Ìå
 
 dragon
 predator
@@ -1108,378 +908,539 @@ warrior
 
 
 
+³àÁú
 
+dragon
+predator
 
 
 
 
 
 
+»ğÑæÁúÓ×Ìå
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+»ìãçÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+»ìãçÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+°ÂÂå¿Ë
 
+giant
+warrior
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+Ú¤½çÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+°ÂÂå¿Ë
 
+giant
+warrior
 
 
 
 
 
 
+µç¹âÁú
 
+dragon
+predator
 
 
 
 
 
 
+Ú¤½çÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+¶ÀÑÛ¾ŞÈË
 
+giant
+warrior
 
 
 
 
 
 
+»ğÑæÁúÓ×Ìå
 
+dragon
+predator
 
 
 
 
 
 
+³àÁú
 
+dragon
+predator
 
 
 
 
 
 
+³àÁú
 
+dragon
+predator
 
 
 
 
 
 
+°ÂÂå¿Ë
 
+giant
+warrior
 
 
 
 
 
 
+¶ÀÑÛ¾ŞÈË
 
+giant
+warrior
 
 
 
 
 
 
+»ìãçÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+»ğÑæÁúÓ×Ìå
 
+dragon
+predator
 
 
 
 
 
 
+»ğÑæÁúÓ×Ìå
 
+dragon
+predator
 
 
 
 
 
 
+°ÂÂå¿Ë
 
+giant
+warrior
 
 
 
 
 
 
+°×Áú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+»ìãçÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+»ğÑæÁúÓ×Ìå
 
+dragon
+predator
 
 
 
 
 
 
+Ú¤½çÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+°×Áú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+»ìãçÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+»ğÑæÁúÓ×Ìå
 
+dragon
+predator
 
 
 
 
 
 
+Ú¤½çÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+Ú¤½çÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+Ú¤½çÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+Ú¤½çÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+°ÂÂå¿Ë
 
+giant
+warrior
 
 
 
 
 
 
+³àÁú
 
+dragon
+predator
 
 
 
 
 
 
+°×Áú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+°×Áú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÄ§
 
+giant
 
 
 
@@ -1487,391 +1448,430 @@ warrior
 
 
 
+°×Áú
 
+dragon
+predator
 
 
 
 
 
 
+°×Áú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+³àÁú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+¡º°×Áú¡»
 
+dragon
+predator
 
 
 
 
 
 
+³àÁú
 
+dragon
+predator
 
 
 
 
 
 
+µç¹âÁú
 
+dragon
+predator
 
 
 
 
 
 
+°ÂÂå¿Ë
 
+giant
+warrior
 
 
 
 
 
 
+°×Áú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+³àÁú
 
+dragon
+predator
 
 
 
 
 
 
+Ú¤½çÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+Ú¤½çÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+Ì©Ì¹
 
+giant
+warrior
 
 
 
 
 
 
+Ú¤½çÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+»ìãçÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+°ÂÂå¿Ë
 
+giant
+warrior
 
 
 
 
 
 
+°ÂÂå¿Ë
 
+giant
+warrior
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+Ú¤½çÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+°ÂÂå¿Ë
 
+giant
+warrior
 
 
 
 
 
 
+°×Áú
 
+dragon
+predator
 
 
 
 
 
 
+Ú¤½çÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+µç¹âÁú
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+»ìãçÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+»ìãçÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+ÂÌÁú
 
+dragon
+predator
 
 
 
 
 
 
+»ìãçÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+Ú¤½çÄ§Áú
 
+dragon
+predator
 
 
 
 
 
 
+°ÂÂå¿Ë
 
+giant
+warrior
 
 
 
 
 
 
+»ğÑæÁúÓ×Ìå
 
+dragon
+predator
 
 
 
 
 
 
+¾ŞÁú
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+dragon
+predator
 
 
 
