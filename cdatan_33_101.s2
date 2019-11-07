@@ -408,10 +408,10 @@ predator
 
 
 
-『穿布偶装的打工者』
+『金田摩托车』
 
-karune
-pianist
+behicle
+predator
 
 
 
@@ -428,10 +428,10 @@ warrior
 
 
 
-艾赫卡托尔的信徒
+『穿布偶装的打工者』
 
-norland
-gunner
+karune
+pianist
 
 
 
@@ -548,10 +548,10 @@ tourist
 
 
 
-朱亚狂信者 莱奥迪伊
+玛尼狂信者
 
 norland
-wizard
+gunner
 
 
 
@@ -578,7 +578,7 @@ tourist
 
 
 
-朱亚狂信者 阿罗鲁特
+朱亚狂信者 苏坦伊苏
 
 norland
 wizard
@@ -588,7 +588,7 @@ wizard
 
 
 
-朱亚狂信者 奥苏加尔
+朱亚狂信者 弗莱奥哈恩
 
 norland
 wizard
@@ -598,7 +598,7 @@ wizard
 
 
 
-朱亚狂信者 巴莱阿
+朱亚狂信者 特姆坦恩
 
 norland
 wizard
@@ -608,7 +608,7 @@ wizard
 
 
 
-朱亚狂信者 西伊纳尔德
+朱亚狂信者 克弗拉苏
 
 norland
 wizard
@@ -618,7 +618,17 @@ wizard
 
 
 
-食品店调酒师 奥伊德恩
+朱亚狂信者 尔茨卡尔
+
+norland
+wizard
+
+
+
+
+
+
+食品店调酒师 弗利奥诺恩
 
 norland
 gunner
@@ -628,7 +638,7 @@ gunner
 
 
 
-纪念品店的西伊基恩
+纪念品店的鲍罗茨特
 
 norland
 
@@ -638,7 +648,7 @@ norland
 
 
 
-纪念品店的尔诺尔特
+纪念品店的乌巴拉弗
 
 norland
 thief
@@ -648,7 +658,7 @@ thief
 
 
 
-黑市的店主 卡鲁茨塔
+黑市的店主 阿玛吉苏
 
 norland
 gunner
@@ -658,7 +668,7 @@ gunner
 
 
 
-小摊西尔卡苏
+小摊西伊保苏
 
 norland
 thief
@@ -668,7 +678,7 @@ thief
 
 
 
-小摊摩奥恩
+小摊阿赫博阿
 
 norland
 thief
@@ -688,7 +698,7 @@ tourist
 
 
 
-祭典观光客 萨玛哈尔特
+祭典观光客 诺罗罗
 
 yerles
 tourist
@@ -708,7 +718,7 @@ tourist
 
 
 
-祭典观光客 阿莱纳尔茨
+祭典观光客 阿玛拉茨库
 
 yerles
 tourist
@@ -728,7 +738,7 @@ tourist
 
 
 
-祭典观光客 帕诺尔茨
+祭典观光客 塔伊杰
 
 yerles
 tourist
@@ -748,7 +758,7 @@ tourist
 
 
 
-祭典观光客 齐尤莱苏
+祭典观光客 塔奥帕恩
 
 yerles
 tourist
@@ -768,7 +778,7 @@ tourist
 
 
 
-祭典观光客 米西科尔德
+祭典观光客 阿巴索尔
 
 yerles
 tourist
@@ -788,7 +798,7 @@ tourist
 
 
 
-祭典观光客 阿吉博茨库
+祭典观光客 齐查苏
 
 yerles
 tourist
@@ -808,7 +818,7 @@ tourist
 
 
 
-祭典观光客 赫苏格恩
+祭典观光客 达伊
 
 yerles
 tourist
@@ -828,7 +838,7 @@ tourist
 
 
 
-祭典观光客 歌尔
+祭典观光客 奥伊莱伊
 
 yerles
 tourist
@@ -848,7 +858,7 @@ tourist
 
 
 
-祭典观光客 拉伊艾恩
+祭典观光客 卡巴西亚茨库
 
 yerles
 tourist
@@ -868,7 +878,7 @@ tourist
 
 
 
-祭典观光客 吉索尔库
+祭典观光客 奥泽诺茨库
 
 yerles
 tourist
@@ -888,7 +898,7 @@ tourist
 
 
 
-祭典观光客 弗伊奥兹
+祭典观光客 奥摩茨库
 
 yerles
 tourist
@@ -908,7 +918,7 @@ tourist
 
 
 
-祭典观光客 奥博保尔
+祭典观光客 奥泽罗茨库
 
 yerles
 tourist
@@ -928,7 +938,7 @@ tourist
 
 
 
-祭典观光客 奥苏科尔
+祭典观光客 阿弗罗尔古
 
 yerles
 tourist
@@ -948,7 +958,7 @@ tourist
 
 
 
-祭典观光客 苏基苏塔恩
+祭典观光客 萨玛茨卡尔
 
 yerles
 tourist
@@ -968,7 +978,7 @@ tourist
 
 
 
-祭典观光客 保弗尔加
+祭典观光客 伊罗加苏
 
 yerles
 tourist
@@ -988,7 +998,7 @@ tourist
 
 
 
-祭典观光客 奥古弗茨库
+祭典观光客 西亚罗阿
 
 yerles
 tourist
@@ -1008,7 +1018,7 @@ tourist
 
 
 
-祭典观光客 齐亚内尔
+祭典观光客 达罗纳
 
 yerles
 tourist
@@ -1028,7 +1038,7 @@ tourist
 
 
 
-祭典观光客 利拉纳
+祭典观光客 塔奥莱尔
 
 yerles
 tourist
@@ -1048,7 +1058,7 @@ tourist
 
 
 
-祭典观光客 拉伊奥拉
+祭典观光客 莱纳尔德
 
 yerles
 tourist
@@ -1068,7 +1078,7 @@ tourist
 
 
 
-祭典观光客 卡苏卡苏
+祭典观光客 哈莱苏
 
 yerles
 tourist
@@ -1078,7 +1088,7 @@ tourist
 
 
 
-吟游诗人 特姆萨尔
+吟游诗人 布塔利
 
 juere
 pianist
@@ -1088,7 +1098,7 @@ pianist
 
 
 
-吟游诗人 阿拉弗安尔
+『吟游诗人 乌尔恩索尔』
 
 juere
 pianist
@@ -1098,7 +1108,7 @@ pianist
 
 
 
-吟游诗人 齐由艾苏
+吟游诗人 奥泽弗尔加
 
 juere
 pianist
@@ -1108,7 +1118,7 @@ pianist
 
 
 
-吟游诗人 伊西尤基恩
+吟游诗人 赫保苏
 
 juere
 pianist
@@ -1118,7 +1128,7 @@ pianist
 
 
 
-吟游诗人 艾伊弗伊苏
+吟游诗人 苏阿恩
 
 juere
 pianist
@@ -1128,7 +1138,7 @@ pianist
 
 
 
-吟游诗人 茨巴摩苏
+吟游诗人 乌巴纳
 
 juere
 pianist
@@ -1138,7 +1148,7 @@ pianist
 
 
 
-吟游诗人 卡恩查查尔德
+吟游诗人 罗巴奥德
 
 juere
 pianist
@@ -1148,7 +1158,7 @@ pianist
 
 
 
-吟游诗人 艾保姆苏
+吟游诗人 米西亚利苏
 
 juere
 pianist
@@ -1158,7 +1168,7 @@ pianist
 
 
 
-吟游诗人 迪尔歌苏
+吟游诗人 罗内伊尔
 
 juere
 pianist
@@ -1168,7 +1178,7 @@ pianist
 
 
 
-吟游诗人 尤拉尔加
+吟游诗人 西由弗奥尔德
 
 juere
 pianist
@@ -1178,7 +1188,7 @@ pianist
 
 
 
-吟游诗人 达诺尔德
+吟游诗人 西伊迪伊苏
 
 juere
 pianist
@@ -1188,7 +1198,7 @@ pianist
 
 
 
-吟游诗人 阿莱库哈尔特
+吟游诗人 艾伊米基苏塔恩
 
 juere
 pianist
@@ -1198,7 +1208,7 @@ pianist
 
 
 
-吟游诗人 西西亚苏
+吟游诗人 卡伊瓦尔特
 
 juere
 pianist
@@ -1208,7 +1218,7 @@ pianist
 
 
 
-吟游诗人 乌巴科尔
+吟游诗人 西兹泽弗
 
 juere
 pianist
@@ -1218,7 +1228,7 @@ pianist
 
 
 
-吟游诗人 萨尔恩巴
+吟游诗人 艾保莱兹
 
 juere
 pianist
@@ -1228,7 +1238,7 @@ pianist
 
 
 
-妓女 西兹科尔
+妓女 奥伊奥兹
 
 norland
 thief
@@ -1238,7 +1248,7 @@ thief
 
 
 
-观光客 萨摩诺
+观光客 拉伊奥乌加
 
 yerles
 tourist
@@ -1248,7 +1258,7 @@ tourist
 
 
 
-贵族 瓦毕阿
+贵族 乌利达尔库
 
 zanan
 warrior
@@ -1268,7 +1278,7 @@ gunner
 
 
 
-妓女 罗博罗尔茨
+妓女 阿罗萨恩德
 
 norland
 thief
@@ -1278,7 +1288,7 @@ thief
 
 
 
-观光客 帕迪阿
+观光客 西亚迪伊恩
 
 yerles
 tourist
@@ -1288,7 +1298,7 @@ tourist
 
 
 
-贵族 西伊鲍恩
+贵族 摩纳迪阿
 
 zanan
 warrior
@@ -1308,7 +1318,7 @@ gunner
 
 
 
-妓女 诺罗卡苏
+妓女 西兹拉弗
 
 norland
 thief
@@ -1318,7 +1328,7 @@ thief
 
 
 
-观光客 伊弗米苏
+观光客 艾德萨米尔
 
 yerles
 tourist
@@ -1328,7 +1338,7 @@ tourist
 
 
 
-贵族 弗齐恩
+贵族 西尤博苏
 
 zanan
 warrior
@@ -1348,7 +1358,7 @@ gunner
 
 
 
-妓女 巴恩巴
+妓女 纳纳尔库
 
 norland
 thief
@@ -1358,7 +1368,7 @@ thief
 
 
 
-观光客 迪伊赫摩苏
+观光客 赫苏罗尔古
 
 yerles
 tourist
@@ -1368,7 +1378,7 @@ tourist
 
 
 
-贵族 帕博茨特
+贵族 卡布浩尔苏
 
 zanan
 warrior
@@ -1388,7 +1398,7 @@ gunner
 
 
 
-妓女 赫尔齐苏
+妓女 奥尔博尔库
 
 norland
 thief
@@ -1398,7 +1408,7 @@ thief
 
 
 
-观光客 阿吉迪伊
+观光客 阿迪尔
 
 yerles
 tourist
@@ -1408,7 +1418,7 @@ tourist
 
 
 
-贵族 乌尔姆
+贵族 艾艾茨塔
 
 zanan
 warrior
@@ -1428,7 +1438,7 @@ gunner
 
 
 
-妓女 伊奥加苏
+妓女 科布
 
 norland
 thief
@@ -1438,7 +1448,7 @@ thief
 
 
 
-观光客 弗莱奥达奥苏
+观光客 瓦迪利阿
 
 yerles
 tourist
@@ -1448,7 +1458,7 @@ tourist
 
 
 
-贵族 卡苏茨齐
+贵族 奥苏达苏
 
 zanan
 warrior
@@ -1468,7 +1478,7 @@ gunner
 
 
 
-妓女 艾保博茨特
+妓女 毕齐苏
 
 norland
 thief
@@ -1478,7 +1488,7 @@ thief
 
 
 
-观光客 卡弗艾茨塔
+观光客 奥尔保苏
 
 yerles
 tourist
@@ -1488,7 +1498,7 @@ tourist
 
 
 
-贵族 哈伊茨坦伊
+贵族 乌拉恩巴
 
 zanan
 warrior
@@ -1508,7 +1518,7 @@ gunner
 
 
 
-迷路的幼猫 阿巴拉伊苏
+迷路的幼猫 兹巴尔德
 
 cat
 
@@ -1518,7 +1528,7 @@ cat
 
 
 
-观光客 米西拉古
+观光客 艾西尤
 
 yerles
 tourist
@@ -1528,7 +1538,7 @@ tourist
 
 
 
-迷路的幼猫 萨玛博尔库
+迷路的幼猫 莱巴拉尔德
 
 cat
 
@@ -1538,7 +1548,7 @@ cat
 
 
 
-观光客 乌巴西尔库
+观光客 纳苏莱伊
 
 yerles
 tourist
@@ -1548,7 +1558,7 @@ tourist
 
 
 
-迷路的幼猫 科格苏
+迷路的幼猫 浩拉
 
 cat
 
@@ -1558,17 +1568,7 @@ cat
 
 
 
-观光客 奥伊优恩
-
-yerles
-tourist
-
-
-
-
-
-
-观光客 阿尔恩索尔
+观光客 卡兹吉苏
 
 yerles
 tourist
