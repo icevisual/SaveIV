@@ -8,9 +8,6 @@ predator
 
 
 
-老鼠
-
-rat
 
 
 
@@ -18,29 +15,12 @@ rat
 
 
 
-＜皇后＞
-
-piece
-wizard
 
 
 
+奥洛克
 
-
-
-靛蓝锤虾
-
-shell
-predator
-
-
-
-
-
-
-残兵
-
-norland
+giant
 warrior
 
 
@@ -48,197 +28,7 @@ warrior
 
 
 
-阴影
-
-ghost
-warrior
-
-
-
-
-
-
-蜥蜴人刺客
-
-lizardman
-thief
-
-
-暗杀者
-
-
-
-陨星
-
-rat
-archer
-
-
-
-
-
-
-恐惧兔
-
-rabbit
-predator
-
-
-
-
-
-
-白金铃
-
-metal
-
-
-
-
-
-
-
-野兔
-
-rabbit
-tourist
-
-
-
-
-
-
-本田小狼
-
-behicle
-predator
-
-
-
-
-
-
-重水素爆弹岩
-
-rock
-predator
-
-
-
-
-
-
-黑色蛞蝓
-
-snail
-predator
-
-
-
-
-
-
-斯拉
-
-dinosaur
-predator
-
-
-
-
-
-
-骸骨狂战士
-
-skeleton
-warrior
-
-
-
-
-
-
-毁灭之野猪
-
-largeanimal
-predator
-
-
-
-
-
-
-巨大松鼠
-
-rabbit
-predator
-
-
-
-
-
-
-麻痹猎犬
-
-dog
-predator
-
-
-
-
-
-
-混沌蘑菇
-
-mushroom
-
-
-
-
-
-
-
-阴影
-
-ghost
-warrior
-
-
-
-
-
-
-半神巫妖
-
-lich
-wizard
-
-
-
-
-
-
-卓柏卡布拉
-
-bear
-predator
-
-
-
-
-
-
-丝西娜
-
-medusa
-warmage
-
-
-
-
-
-
-暴君龙
+绿龙
 
 dragon
 predator
@@ -248,19 +38,239 @@ predator
 
 
 
-青之洗礼者
+『巨魔』
 
-ghost
-wizard
-
+giant
 
 
 
 
 
-白鹰『韦赛尔』
 
-zanan
+
+电光龙
+
+dragon
+predator
+
+
+
+
+
+
+火焰龙幼体
+
+dragon
+predator
+
+
+
+
+
+
+巨魔
+
+giant
+
+
+
+
+
+
+
+混沌魔龙
+
+dragon
+predator
+
+
+
+
+
+
+白龙
+
+dragon
+predator
+
+
+
+
+
+
+绿龙
+
+dragon
+predator
+
+
+
+
+
+
+冥界魔龙
+
+dragon
+predator
+
+
+
+
+
+
+冥界魔龙
+
+dragon
+predator
+
+
+
+
+
+
+火焰龙幼体
+
+dragon
+predator
+
+
+
+
+
+
+混沌魔龙
+
+dragon
+predator
+
+
+
+
+
+
+赤龙
+
+dragon
+predator
+
+
+
+
+
+
+赤龙
+
+dragon
+predator
+
+
+
+
+
+
+白龙
+
+dragon
+predator
+
+
+
+
+
+
+巨魔
+
+giant
+
+
+
+
+
+
+
+巨龙
+
+dragon
+predator
+
+
+
+
+
+
+冥界魔龙
+
+dragon
+predator
+
+
+
+
+
+
+混沌魔龙
+
+dragon
+predator
+
+
+
+
+
+
+电光龙
+
+dragon
+predator
+
+
+
+
+
+
+白龙
+
+dragon
+predator
+
+
+
+
+
+
+赤龙
+
+dragon
+predator
+
+
+
+
+
+
+赤龙
+
+dragon
+predator
+
+
+
+
+
+
+冥界魔龙
+
+dragon
+predator
+
+
+
+
+
+
+奥洛克
+
+giant
 warrior
 
 
@@ -268,39 +278,19 @@ warrior
 
 
 
-魔王的精兵
+巨魔
 
-imp
-thief
-
-
-
-
-
-
-吸血蝙蝠
-
-bat
-predator
+giant
 
 
 
 
 
 
-军团死灵巫师
 
-ghost
-warmage
+泰坦
 
-
-
-
-
-
-密多罗
-
-asura
+giant
 warrior
 
 
@@ -308,19 +298,9 @@ warrior
 
 
 
-收割者
+电光龙
 
-lich
-farmer
-
-
-
-
-
-
-耶鲁士自律飞行单位
-
-behicle
+dragon
 predator
 
 
@@ -328,39 +308,9 @@ predator
 
 
 
-巴祖
+绿龙
 
-bird
-thief
-
-
-
-
-
-
-金铃
-
-metal
-
-
-
-
-
-
-
-黄金羊
-
-sheep
-wizard
-
-
-
-
-
-
-卡拉狄加幻影
-
-ghost
+dragon
 predator
 
 
@@ -368,19 +318,9 @@ predator
 
 
 
-Ω赫拉克勒斯
+电光龙
 
-beetle
-gunner
-
-
-
-
-
-
-暗食考拉
-
-bear
+dragon
 predator
 
 
@@ -388,49 +328,9 @@ predator
 
 
 
-金铃
+巨龙
 
-metal
-
-
-
-
-
-
-
-南瓜怪物
-
-mandrake
-
-
-
-
-
-
-
-蛇神威
-
-snake
-wizard
-
-
-
-
-
-
-卡帕普神
-
-bat
-archer
-
-
-
-
-
-
-上帝之手
-
-hand
+dragon
 predator
 
 
@@ -438,29 +338,19 @@ predator
 
 
 
-狙击寄居蟹
+巨魔
 
-shell
-gunner
-
-
-
-
-
-
-炽天使 艾罗拉尔库
-
-cupid
-archer
+giant
 
 
 
 
 
 
-针地狱鼠
 
-rat
+白龙
+
+dragon
 predator
 
 
@@ -468,19 +358,29 @@ predator
 
 
 
-赤之洗礼者
+冥界魔龙
 
-ghost
-wizard
-
-
+dragon
+predator
 
 
 
 
-阴影
 
-ghost
+
+冥界魔龙
+
+dragon
+predator
+
+
+
+
+
+
+奥洛克
+
+giant
 warrior
 
 
@@ -488,20 +388,120 @@ warrior
 
 
 
-电气羊
+火焰龙幼体
 
-sheep
-wizard
-
-
+dragon
+predator
 
 
 
 
-罗斯利亚的苍风『阿尔弗雷德』
 
-elea
-warmage
+
+绿龙
+
+dragon
+predator
+
+
+
+
+
+
+巨龙
+
+dragon
+predator
+
+
+
+
+
+
+赤龙
+
+dragon
+predator
+
+
+
+
+
+
+冥界魔龙
+
+dragon
+predator
+
+
+
+
+
+
+混沌魔龙
+
+dragon
+predator
+
+
+
+
+
+
+泰坦
+
+giant
+warrior
+
+
+
+
+
+
+绿龙
+
+dragon
+predator
+
+
+
+
+
+
+独眼巨人
+
+giant
+warrior
+
+
+
+
+
+
+电光龙
+
+dragon
+predator
+
+
+
+
+
+
+冥界魔龙
+
+dragon
+predator
+
+
+
+
+
+
+火焰龙幼体
+
+dragon
+predator
 
 
 
